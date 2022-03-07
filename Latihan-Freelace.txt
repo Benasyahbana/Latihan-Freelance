@@ -3,3 +3,4 @@ LATIHAN FREELANCE
 - Memahami hal-hal Kecil dalam belajar
 - Belajar JS
 - Belajar Kolaborasi sama banyak orang
+- menghapus
